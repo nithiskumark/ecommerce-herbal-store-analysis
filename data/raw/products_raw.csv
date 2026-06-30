@@ -1,0 +1,36 @@
+Variant SKU,Variant Price,Cost per item,Variant Inventory Qty,True SKU margins,Product Name
+HERB001,250,160,120,90,Amla Hair Oil
+HERB002,180,110,200,70,Neem Face Wash
+HERB003,300,190,150,110,Tulsi Green Tea
+HERB004,90,50,300,40,Aloe Vera Gel
+HERB005,220,140,180,80,Ashwagandha Capsules
+HERB006,398,318,152,80,Triphala Powder
+HERB007,363,290,250,73,Brahmi Hair Tonic
+HERB008,113,90,505,23,Shikakai Shampoo
+HERB009,104,83,350,21,Moringa Tablets
+HERB010,214,171,235,43,Giloy Juice
+HERB011,80,64,128,16,Turmeric Capsules
+HERB012,325,260,140,65,Sandalwood Soap
+HERB013,393,314,462,79,Hibiscus Hair Pack
+HERB014,292,234,240,58,Arjuna Bark Powder
+HERB015,227,182,393,45,Guggul Tablets
+HERB016,305,244,178,61,Manjistha Skin Cream
+HERB017,331,265,207,66,Licorice Root Powder
+HERB018,398,318,396,80,Bhringraj Hair Oil
+HERB019,108,86,318,22,Cinnamon Herbal Tea
+HERB020,287,230,390,57,Tulsi Drops
+HERB021,226,181,296,45,Fenugreek Hair Mask
+HERB022,241,193,155,48,Cardamom Herbal Infusion
+HERB023,179,143,453,36,Clove Oil
+HERB024,110,88,289,22,Ginger Capsules
+HERB025,293,234,522,59,Haritaki Powder
+HERB026,307,246,376,61,Pippali Tablets
+HERB027,244,195,383,49,Rose Water
+HERB028,367,294,373,73,Vetiver Cooling Oil
+HERB029,227,182,384,45,Saffron Skin Cream
+HERB030,240,192,418,48,Curry Leaf Hair Oil
+HERB031,300,240,326,60,Bael Fruit Powder
+HERB032,355,284,144,71,Tulsi Honey
+HERB033,215,172,364,43,Mustard Oil (Cold Pressed)
+HERB034,228,182,401,46,Coconut Herbal Balm
+HERB035,210,170,305,40,Lemongrass Essential Oil
