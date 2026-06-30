@@ -1,0 +1,169 @@
+2026-01-13 20:38:22,596 - INFO - ECOMMERCE ETL PIPELINE STARTED
+2026-01-13 20:38:22,596 - INFO - ============================================================
+2026-01-13 20:38:22,630 - ERROR - Files missing: orders_nov_raw.csv
+2026-01-13 20:38:22,631 - ERROR - File missing: File not found
+2026-01-13 20:38:38,282 - INFO - ECOMMERCE ETL PIPELINE STARTED
+2026-01-13 20:38:38,285 - INFO - ============================================================
+2026-01-13 20:38:38,313 - ERROR - Files missing: orders_nov_raw.csv
+2026-01-13 20:38:38,313 - ERROR - File missing: File not found
+2026-01-13 20:59:32,291 - INFO - ECOMMERCE ETL PIPELINE STARTED
+2026-01-13 20:59:32,291 - INFO - ============================================================
+2026-01-13 20:59:32,337 - INFO - Loaded orders_nov_raw.csv: (300, 17)
+2026-01-13 20:59:32,343 - INFO - Loaded orders_dec_raw.csv: (300, 17)
+2026-01-13 20:59:32,345 - INFO - Combined orders: (600, 17)
+2026-01-13 20:59:32,360 - INFO - Orders combined: (600, 17)
+2026-01-13 20:59:32,433 - INFO - Missing values in orders_raw:
+Order ID                  0
+Order Name                0
+Created at                0
+Financial Status          0
+Customer ID               0
+Total Price               0
+Subtotal Price            0
+Total Discounts           0
+Shipping Cost             0
+Total Tax                 0
+Lineitem quantity         0
+Lineitem sku              0
+Lineitem price            0
+Lineitem total price      0
+Lineitem name             0
+Refund ID               537
+Risk Level                0
+dtype: int64
+2026-01-13 20:59:32,434 - INFO - Missing values in products_raw:
+Variant SKU              0
+Variant Price            0
+Cost per item            0
+Variant Inventory Qty    0
+True SKU margins         0
+dtype: int64
+2026-01-13 20:59:32,435 - INFO - Missing values in customers_raw:
+Customer ID      0
+Customer Name    0
+Email            0
+Phone Number     0
+City             0
+State            0
+Country          0
+Postal Code      0
+dtype: int64
+2026-01-13 20:59:32,499 - INFO - After dedupe/cancelled: 537
+2026-01-13 20:59:33,006 - INFO -        Recency Days   Frequency  Monetary Value
+count    335.000000  335.000000      335.000000
+mean      38.961194    1.602985     1192.127164
+std       17.887079    0.800817      790.980765
+min       13.000000    1.000000       56.200000
+25%       23.000000    1.000000      565.100000
+50%       37.000000    1.000000     1102.000000
+75%       54.500000    2.000000     1633.900000
+max       73.000000    5.000000     4253.400000
+2026-01-13 20:59:33,087 - INFO -             Metric      Value
+0     Total Orders     537.00
+1    Total Revenue  399362.60
+2  Avg Order Value     743.69
+3  Total Customers     335.00
+2026-01-13 20:59:33,106 - INFO - ETL SUCCESS | Revenue: 399,363 | Customers: 335
+2026-01-13 21:58:18,741 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-01-13 21:58:18,744 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-01-14 11:19:27,402 - INFO - ECOMMERCE ETL PIPELINE STARTED
+2026-01-14 11:19:27,405 - INFO - ============================================================
+2026-01-14 11:19:27,522 - INFO - Loaded orders_nov_raw.csv: (300, 17)
+2026-01-14 11:19:27,552 - INFO - Loaded orders_dec_raw.csv: (300, 17)
+2026-01-14 11:19:27,560 - INFO - Combined orders: (600, 17)
+2026-01-14 11:19:27,581 - INFO - Orders combined: (600, 17)
+2026-01-14 11:19:27,681 - INFO - Missing values in orders_raw:
+Order ID                  0
+Order Name                0
+Created at                0
+Financial Status          0
+Customer ID               0
+Total Price               0
+Subtotal Price            0
+Total Discounts           0
+Shipping Cost             0
+Total Tax                 0
+Lineitem quantity         0
+Lineitem sku              0
+Lineitem price            0
+Lineitem total price      0
+Lineitem name             0
+Refund ID               537
+Risk Level                0
+dtype: int64
+2026-01-14 11:19:27,682 - INFO - Missing values in products_raw:
+Variant SKU              0
+Variant Price            0
+Cost per item            0
+Variant Inventory Qty    0
+True SKU margins         0
+dtype: int64
+2026-01-14 11:19:27,683 - INFO - Missing values in customers_raw:
+Customer ID      0
+Customer Name    0
+Email            0
+Phone Number     0
+City             0
+State            0
+Country          0
+Postal Code      0
+dtype: int64
+2026-01-14 11:19:27,801 - INFO - After dedupe/cancelled: 537
+2026-01-15 20:47:47,062 - INFO - ECOMMERCE ETL PIPELINE STARTED
+2026-01-15 20:47:47,063 - INFO - ============================================================
+2026-01-15 20:47:47,096 - INFO - Loaded orders_nov_raw.csv: (300, 17)
+2026-01-15 20:47:47,100 - INFO - Loaded orders_dec_raw.csv: (300, 17)
+2026-01-15 20:47:47,102 - INFO - Combined orders: (600, 17)
+2026-01-15 20:47:47,109 - INFO - Orders combined: (600, 17)
+2026-01-15 20:47:47,139 - INFO - Missing values in orders_raw:
+Order ID                  0
+Order Name                0
+Created at                0
+Financial Status          0
+Customer ID               0
+Total Price               0
+Subtotal Price            0
+Total Discounts           0
+Shipping Cost             0
+Total Tax                 0
+Lineitem quantity         0
+Lineitem sku              0
+Lineitem price            0
+Lineitem total price      0
+Lineitem name             0
+Refund ID               537
+Risk Level                0
+dtype: int64
+2026-01-15 20:47:47,140 - INFO - Missing values in products_raw:
+Variant SKU              0
+Variant Price            0
+Cost per item            0
+Variant Inventory Qty    0
+True SKU margins         0
+dtype: int64
+2026-01-15 20:47:47,141 - INFO - Missing values in customers_raw:
+Customer ID      0
+Customer Name    0
+Email            0
+Phone Number     0
+City             0
+State            0
+Country          0
+Postal Code      0
+dtype: int64
+2026-01-15 20:47:47,178 - INFO - After dedupe/cancelled: 537
+2026-01-15 20:47:47,430 - INFO -        Recency Days   Frequency  Monetary Value
+count    335.000000  335.000000      335.000000
+mean      40.961194    1.602985     1192.127164
+std       17.887079    0.800817      790.980765
+min       15.000000    1.000000       56.200000
+25%       25.000000    1.000000      565.100000
+50%       39.000000    1.000000     1102.000000
+75%       56.500000    2.000000     1633.900000
+max       75.000000    5.000000     4253.400000
+2026-01-15 20:47:47,478 - INFO -             Metric      Value
+0     Total Orders     537.00
+1    Total Revenue  399362.60
+2  Avg Order Value     743.69
+3  Total Customers     335.00
+2026-01-15 20:47:47,490 - INFO - ETL SUCCESS | Revenue: 399,363 | Customers: 335
